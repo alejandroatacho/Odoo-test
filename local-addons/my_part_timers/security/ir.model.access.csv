@@ -1,8 +1,2 @@
 id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
-parttime,Part Time,1,1,1,1,1
-fulltime,Full Time,1,1,1,1,1
-contract,Contract,1,1,1,1,1
-internship,Internship,1,1,1,1,1
-temporary,Temporary,1,1,1,1,1
-volunteer,Volunteer,1,1,1,1,1
-other,Other,1,1,1,1,1
+part_time, my.part.timers, 1, 1, 1, 1, 1, 1

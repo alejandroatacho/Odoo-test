@@ -2,9 +2,9 @@
 from odoo import models, fields
 
 
-class my_part_timer(models.Model):
-    _name = 'my.part.timer'
-    _description = 'My Part Timer'
+class my_part_timers(models.Model):
+    _name = 'my.part.timers'
+    _description = 'My Part Timers'
     _rec_name = 'name'
     _order = 'name'
 
