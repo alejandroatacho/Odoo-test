@@ -1,6 +1,7 @@
 {
     'name': "My Part Timers",
     'author': "Hinamizawa",
+    'images': 'static/description/applogo.png',
     'summary': """ Odoo CookBook  """,
     'description': """
 ┬┴┬┴┤ʕ•ᴥ├┬┴┬┴ 
