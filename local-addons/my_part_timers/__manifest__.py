@@ -1,7 +1,6 @@
 {
     'name': "My Part Timers",
     'author': "Hinamizawa",
-    'images': 'static/description/applogo.png',
     'summary': """ Odoo CookBook  """,
     'description': """
 ┬┴┬┴┤ʕ•ᴥ├┬┴┬┴ 
@@ -17,9 +16,9 @@
     'depends': ['base'],
     # 'images': 'static/description/applogo.png',
     'data': [
-        # 'security/groups.xml',
-        # 'security/ir.model.access.csv',
-        # 'views/library_book.xml'
+        'security/groups.xml',
+        'security/ir.model.access.csv',
+        'views/my_part_timers.xml'
     ],
     # This demo data files will be loaded if db initialize with demo data (commented because file is not added in this example)
     'demo': [
